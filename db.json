@@ -1,20 +1,12 @@
 {
     "usersData": [
-        {
-            "id": 1,
-            "name": "Harish",
-            "age": 25,
-            "gender": "Male",
-            "country": "India",
-            "profession": "Student"
-          },
           {
             "name": "sagar pawar",
             "age": "28",
             "gender": "on",
             "country": "Jalgaon",
             "profession": "employed",
-            "id": 2
+            "id": 1
           }
     ]
 }
