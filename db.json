@@ -1,12 +1,7 @@
 {
-    "usersData": [
+    "notesData": [
           {
-            "name": "sagar pawar",
-            "age": "28",
-            "gender": "on",
-            "country": "Jalgaon",
-            "profession": "employed",
-            "id": 1
+            
           }
     ]
 }
