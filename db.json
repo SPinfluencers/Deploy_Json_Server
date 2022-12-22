@@ -1,10 +1,10 @@
 {
-    "notesData":[
-        {
-        "id": 1,
-        "title": "inpotrtant info",
-        "description": "added data",
-        "date": "1/12/2022"
-      }
-    ]
+  "notesData":[
+      {
+      "id": 1,
+      "title": "inpotrtant info",
+      "description": "added data",
+      "date": "1/12/2022"
+    }
+  ]
 }
