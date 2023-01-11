@@ -1,10 +1,14 @@
 {
-  "user":[
+  "todo": [
     {
       "id": 1,
-      "title": "inpotrtant info",
-      "description": "added data",
-      "date": "1/12/2022"
+      "title": "sdfdfg",
+      "status": true
+    },
+    {
+      "title": "DSFGSDFG",
+      "status": false,
+      "id": 3
     }
   ]
 }
